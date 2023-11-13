@@ -2,7 +2,7 @@
 
 ### About Me
 <p>
-  Hey there! I'm a full-stack developer driven by the awe of how software development can sometimes feel like an art form, despite being primarily a science and engineering discipline. I'm always curious and can't get enough of it.
+  Hey there! I'm a full-stack developer driven by the awe of how software development can feel like an art form, despite being primarily a science and engineering discipline. I'm always curious and can't get enough of it.
 </p>
 
 ### Languages and Tools
